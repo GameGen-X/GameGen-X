@@ -66,9 +66,6 @@ Each `.csv` file contains the following columns:
 ### Statistics
 
 ![Word Cloud](./Figures/wordcloud_output.png)
-![Word Cloud](https://arxiv.org/html/2411.00769v1/extracted/5968319/figures/game_distribution_nature_style.png)
-![Word Cloud](https://arxiv.org/html/2411.00769v1/extracted/5968319/figures/game_ins_1.png)
-![Word Cloud](https://arxiv.org/html/2411.00769v1/extracted/5968319/figures/game_gen_game_3.png)
 
 ## License
 The `OGameData` dataset is available under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please ensure proper attribution when using the dataset in research or other projects.
