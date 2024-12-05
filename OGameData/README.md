@@ -40,9 +40,9 @@ The `OGameData` dataset consists of 1,000,000 video samples curated from online 
 
 ### File Descriptions
 - **`OGameData.csv`**: The full dataset, under review and coming soon.
+- **`OGameData_250K.csv`**: A compact subset of 250,000 generation training samples, ideal for initial experimentation.
 - **`OGameData_100K.csv`**: A subset of `OGameData` containing 100,000 generation training samples.
 - **`OGameData_50K.csv`**: A smaller subset containing 50,000 generation training samples.
-- **`OGameData_10K.csv`**: A compact subset of 10,000 generation training samples, ideal for initial experimentation.
 
 ### Data Fields
 Each `.csv` file contains the following columns:
@@ -59,9 +59,9 @@ Each `.csv` file contains the following columns:
 | "Player achieves a new high score by defeating a boss" | "Player defeats boss" | 00:02:15 | 00:02:30 | `https://www.youtube.com/watch?v=video1` | `video1.mp4` |
 
 ### Download Links
+- **[OGameData_250K.csv](https://drive.google.com/file/d/1hd3aiGBiDClQMSqFZCheysg1K2zLPSm4/view?usp=drive_link)** (250,000 samples)
 - **[OGameData_100K.csv](https://drive.google.com/file/d/1O80GdWI4BfhwWIIvEyoGZmBrK_NZae2k/view?usp=sharing)** (100,000 samples)
 - **[OGameData_50K.csv](https://drive.google.com/file/d/1Zw4AofuVso53RCmNtx5GNN3MdFxhvg2H/view?usp=sharing)** (50,000 samples)
-- **[OGameData_10K.csv](https://drive.google.com/file/d/1QQ0i8ZlrWYQEqNGedlzGYJe6adqd4y_P/view?usp=sharing)** (10,000 samples)
 
 ### Statistics
 

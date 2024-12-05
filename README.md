@@ -16,8 +16,8 @@ This model facilitates high-quality, open-domain generation by simulating a wide
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://gamegen-x.github.io/)
 ## Next
 
+- [✅] Release OGameData
 - [ ] Release pre-trained GameGen-X open-domain generation checkpoints and inference scripts
 - [ ] Release GameGen-X training scripts for open-domain generation
-- [ ] Release OGameData
 
 **Code will be released soon!**
