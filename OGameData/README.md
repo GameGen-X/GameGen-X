@@ -92,14 +92,17 @@ We extend our gratitude to the authors and contributors of these resources for t
 If you use `OGameData` in your research, please cite it as follows:
 
 ```markdown
-@article{che2024gamegen,
+@inproceedings{che2024gamegen,
   title={GameGen-X: Interactive Open-world Game Video Generation},
   author={Che, Haoxuan and He, Xuanhua and Liu, Quande and Jin, Cheng and Chen, Hao},
-  journal={arXiv preprint arXiv:2411.00769},
-  year={2024}
+  booktitle={International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=8VG8tpPZhe},
 }
 ```
 
 ## Contact
 
 For questions, please open an issue on our [GitHub repository](https://github.com/GameGen-X/GameGen-X/issues) or reach out via our contact page.
+
+
