@@ -20,7 +20,7 @@ We are committed to maintaining transparency and compliance in our data collecti
 - All videos of the OGameData dataset are obtained from the Internet which is not the property of our institutions. Our institution is not responsible for the content or the meaning of these videos.
 - You agree not to reproduce, duplicate, copy, sell, trade, resell, or exploit for any commercial purposes, any portion of the videos, and any portion of derived data. You agree not to further copy, publish, or distribute any portion of the OGameData dataset.
 
-## Datadaset Construction Pipeline
+## Dataset Construction Pipeline
 ### Data Collection and Filtering
 - **Sources**: Content was gathered from internet gameplay videos, focusing on gameplay footage with minimal UI elements.
 - **Manual Filtering**: Low-quality videos were manually filtered out, ensuring the integrity of metadata such as game name, genre, and player perspective.
