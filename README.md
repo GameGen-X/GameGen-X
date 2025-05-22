@@ -81,7 +81,7 @@ Each `.csv` file contains the following columns:
 | "Player achieves a new high score by defeating a boss" | "Player defeats boss" | 00:02:15 | 00:02:30 | `https://www.youtube.com/watch?v=video1` | `video1.mp4` |
 
 #### Download Links
-- **[OGameData_250K.csv](https://drive.google.com/file/d/1x8Sef9BHsreYs2pOPtqE1RBMA7_lFjXz/view?usp=sharing)** (860,000 samples)
+- **[OGameData_860K.csv](https://drive.google.com/file/d/1x8Sef9BHsreYs2pOPtqE1RBMA7_lFjXz/view?usp=sharing)** (860,000 samples)
 - **[OGameData_250K.csv](https://drive.google.com/file/d/1hd3aiGBiDClQMSqFZCheysg1K2zLPSm4/view?usp=drive_link)** (250,000 samples)
 - **[OGameData_100K.csv](https://drive.google.com/file/d/1O80GdWI4BfhwWIIvEyoGZmBrK_NZae2k/view?usp=sharing)** (100,000 samples)
 - **[OGameData_50K.csv](https://drive.google.com/file/d/1Zw4AofuVso53RCmNtx5GNN3MdFxhvg2H/view?usp=sharing)** (50,000 samples)
